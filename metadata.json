@@ -1,0 +1,7 @@
+{
+  "name": "ByggKoll - Tidrapportering för Byggföretag",
+  "description": "Ett modernt och effektivt tidrapporteringssystem skräddarsytt för byggbranschen med AI-driven analys, projektuppföljning och automatiserade sammanställningar.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
